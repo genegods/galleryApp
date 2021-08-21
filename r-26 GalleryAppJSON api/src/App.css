@@ -1,0 +1,18 @@
+ 
+ body{
+
+    background-color: #d1d1cb;
+} 
+ 
+.card-header{
+    background-color: #353333;
+    color: whitesmoke;
+}
+
+.card-body{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+
